@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2025-09-03T18:15:47Z",
+  "articles": [
+    {
+      "title": "Sample Boston Story Title",
+      "link": "https://www.boston.com/",
+      "pubDate": "Wed, 03 Sep 2025 18:15:47 GMT",
+      "summary": [
+        "What happened: sample summary line with specific facts and numbers.",
+        "Key detail: includes local impact and why this matters to Boston residents.", 
+        "The restaurant's closure connects to a 15-year property dispute that involves three generations of the same family"
+      ],
+      "hookType": "LOCAL_IMPACT",
+      "processed_at": "2025-09-03T18:15:47Z"
+    },
+    {
+      "title": "Patriots Training Camp Update",
+      "link": "https://www.boston.com/sports/",
+      "pubDate": "Wed, 03 Sep 2025 17:30:22 GMT", 
+      "summary": [
+        "Patriots complete second week of training camp with 23 players reporting minor injuries.",
+        "Coach implements new offensive strategy focusing on short-yardage situations after last season's struggles.",
+        "One rookie's performance in practice has veterans questioning long-held team traditions"
+      ],
+      "hookType": "SPORTS",
+      "processed_at": "2025-09-03T17:30:22Z"
+    }
+  ],
+  "stats": {
+    "totalArticles": 2,
+    "lastRefresh": "2025-09-03T18:15:47Z",
+    "version": "2.0",
+    "note": "Placeholder data - real stories will appear once the workflow runs"
+  }
+}
